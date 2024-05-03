@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T13:33:27.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="IwyqCCVga08f911e92hL" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T13:37:27.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="tvMECmUp6iOZVnChoTIu" version="24.3.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1572" dy="1089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -42,53 +42,6 @@
         <mxCell id="-69_IPSq3md6PTXuD7Ai-6" value="每日一句" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="240" y="319" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-69_IPSq3md6PTXuD7Ai-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="-69_IPSq3md6PTXuD7Ai-25" target="-69_IPSq3md6PTXuD7Ai-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-69_IPSq3md6PTXuD7Ai-18" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-69_IPSq3md6PTXuD7Ai-17">
-          <mxGeometry x="0.3745" y="1" relative="1" as="geometry">
-            <mxPoint x="-24" y="19" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-69_IPSq3md6PTXuD7Ai-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="-69_IPSq3md6PTXuD7Ai-25" target="-69_IPSq3md6PTXuD7Ai-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-69_IPSq3md6PTXuD7Ai-20" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-69_IPSq3md6PTXuD7Ai-19">
-          <mxGeometry x="0.6431" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-69_IPSq3md6PTXuD7Ai-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="-69_IPSq3md6PTXuD7Ai-25" target="-69_IPSq3md6PTXuD7Ai-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-69_IPSq3md6PTXuD7Ai-22" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-69_IPSq3md6PTXuD7Ai-21">
-          <mxGeometry x="0.6431" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-69_IPSq3md6PTXuD7Ai-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="-69_IPSq3md6PTXuD7Ai-25" target="-69_IPSq3md6PTXuD7Ai-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-69_IPSq3md6PTXuD7Ai-24" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-69_IPSq3md6PTXuD7Ai-23">
-          <mxGeometry x="0.7891" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-69_IPSq3md6PTXuD7Ai-25" value="管理" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="114" y="738" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-69_IPSq3md6PTXuD7Ai-26" value="视频" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-16" y="878" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-69_IPSq3md6PTXuD7Ai-27" value="电子书" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="74" y="878" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-69_IPSq3md6PTXuD7Ai-28" value="新闻" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="174" y="878" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-69_IPSq3md6PTXuD7Ai-29" value="每日一句" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="264" y="878" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="-69_IPSq3md6PTXuD7Ai-31" value="单词" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="230" y="-96" width="70" height="40" as="geometry" />
         </mxCell>
@@ -111,12 +64,6 @@
         <mxCell id="-69_IPSq3md6PTXuD7Ai-32" value="搜索" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="220" y="19" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-69_IPSq3md6PTXuD7Ai-42" value="电子书类别" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-69" y="647" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-69_IPSq3md6PTXuD7Ai-43" value="单词书类别" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-69" y="703" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="-69_IPSq3md6PTXuD7Ai-44" value="单词书" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="641" y="-42" width="70" height="40" as="geometry" />
         </mxCell>
@@ -131,9 +78,6 @@
         </mxCell>
         <mxCell id="-69_IPSq3md6PTXuD7Ai-47" value="生词本" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="93" y="30" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-69_IPSq3md6PTXuD7Ai-48" value="电子书系列" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-69" y="591" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-69_IPSq3md6PTXuD7Ai-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="-69_IPSq3md6PTXuD7Ai-49" target="-69_IPSq3md6PTXuD7Ai-5">
           <mxGeometry relative="1" as="geometry" />
